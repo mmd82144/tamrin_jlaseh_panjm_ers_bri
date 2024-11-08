@@ -1,0 +1,9 @@
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\obj\Debug\tamrin5.csprojResolveAssemblyReference.cache
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\obj\Debug\tamrin.Form1.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\obj\Debug\tamrin.Properties.Resources.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\obj\Debug\tamrin5.csproj.GenerateResource.Cache
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\bin\Debug\tamrin.exe.config
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\bin\Debug\tamrin.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\bin\Debug\tamrin.pdb
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\obj\Debug\tamrin.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\tamrin\tamrin\obj\Debug\tamrin.pdb
